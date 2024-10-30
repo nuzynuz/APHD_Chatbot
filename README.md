@@ -29,6 +29,6 @@ To design and develop chatbot application for awareness of heart disease. <br>
 - firebase: To store image and documents.
 
 <h2>Home Page</h2>
-![Image of HomePage](images/Home_Page.png)
+<img src="images/Home_Page.png alt="Diagram of the workflow" width="400"/>
 
 
