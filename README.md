@@ -6,3 +6,10 @@ that, the chatbot can then learn how to respond to each user’s heart-related q
 query will be responded to from within the trained data set. The APHD-Bot is a website embedded 
 chatbot where the user can communicate through a website and can resolve any doubts by asking 
 any questions related to heart disease</p>
+
+The APHD-Bot should be able to interact with the user as following, 
+
+User: Hi
+APHD-Bot: Hello! I’m here what can I help you
+User: What are the risk factors for heart disease?
+APHD-Bot: The factors are High Cholesterol, High Blood Pressure, Obesity, Diabetes, Smoke
