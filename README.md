@@ -29,5 +29,5 @@ To design and develop chatbot application for awareness of heart disease. <br>
 - firebase: To store image and documents.
 
 <h2>Home Page</h2>
-<p align="center"><img src="Home_Page.png" /></p>
+<p align="center"><img src="C:\Users\Admin\Desktop\Nusly Bsc Resrch\1940890\imagesHome_Page.png" /></p>
 
