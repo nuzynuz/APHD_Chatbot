@@ -13,3 +13,13 @@ User: Hi <br>
 APHD-Bot: Hello! I’m here what can I help you <br>
 User: What are the risk factors for heart disease? <br>
 APHD-Bot: The factors are High Cholesterol, High Blood Pressure, Obesity, Diabetes, Smoke <br>
+
+<h2> Features </h2>
+Embed in a website <br>
+Designed specifically to patients <br>
+Give rapid answer to the basic user query <br>
+To design and develop chatbot application for awareness of heart disease. <br>
+
+<h2> Technologies Used </h2>
+
+
