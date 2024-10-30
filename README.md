@@ -9,7 +9,7 @@ any questions related to heart disease</p>
 
 The APHD-Bot should be able to interact with the user as following, 
 
-User: Hi
-APHD-Bot: Hello! I’m here what can I help you
-User: What are the risk factors for heart disease?
-APHD-Bot: The factors are High Cholesterol, High Blood Pressure, Obesity, Diabetes, Smoke
+User: Hi <br>
+APHD-Bot: Hello! I’m here what can I help you <br>
+User: What are the risk factors for heart disease? <br>
+APHD-Bot: The factors are High Cholesterol, High Blood Pressure, Obesity, Diabetes, Smoke <br>
