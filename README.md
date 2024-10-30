@@ -21,5 +21,13 @@ Give rapid answer to the basic user query <br>
 To design and develop chatbot application for awareness of heart disease. <br>
 
 <h2> Technologies Used </h2>
+- Dialogflow: Chatbot framework. To train the basic data's and NLP built-in feature.
+- HTML, CSS and Bootstrap:  To design user interfaces
+- JavaScript and JQuery: To do frontend functions and animations as well
+- PHP: To embed the chatbot into system using PHP libraries.
+- Heroku: Main webhook services to support conditional responses.
+- firebase: To store image and documents.
+
+<h2>Home Page</h2>
 
 
